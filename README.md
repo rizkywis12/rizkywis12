@@ -71,7 +71,10 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" /> -->
 
-
-
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/rizkywis12/rizkywis12/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
