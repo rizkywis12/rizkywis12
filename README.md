@@ -4,7 +4,7 @@
 <br>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Back%20End-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Indonesia-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Indo%20%26%20Korean-brightgreen" />
